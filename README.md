@@ -12,7 +12,7 @@ The command for running frame extraction is as follows
 bash extractor.sh VIDEO_ROOT FRAME_ROOT NUM_THREADS
 ```
 
-For video data pre-processing, you may need [ffmpeg](https://www.ffmpeg.org/).
+For frame extraction, you need [ffmpeg](https://www.ffmpeg.org/).
 
 ## Acknowledgements
 
